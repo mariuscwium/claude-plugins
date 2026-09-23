@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "mariuscwium",
+  "owner": {
+    "name": "Marius Wium",
+    "url": "https://github.com/mariuscwium"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by Marius Wium"
+  },
+  "plugins": [
+    {
+      "name": "pinyin",
+      "source": "./plugins/pinyin",
+      "description": "Mandarin practice: Claude slips the pinyin for a few common words into its replies, with no English gloss.",
+      "version": "0.1.0",
+      "category": "learning"
+    }
+  ]
+}

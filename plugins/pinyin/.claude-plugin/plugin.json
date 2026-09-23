@@ -1,0 +1,9 @@
+{
+  "name": "pinyin",
+  "description": "Mandarin practice mode. Claude slips the pinyin for a few common words into its chat replies, with no English gloss, so you read them in context.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Marius Wium",
+    "url": "https://github.com/mariuscwium"
+  }
+}
