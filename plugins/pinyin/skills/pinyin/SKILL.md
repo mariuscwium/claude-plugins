@@ -23,10 +23,15 @@ On for every reply until the user says "stop pinyin". Topic changes don't turn i
 
 ## Which words
 
-- Everyday basics, roughly HSK 1–3: hǎo (good), jīntiān (today), míngtiān (tomorrow), gōngzuò (work), wèntí (problem), xūyào (need), kěyǐ (can), yǐjīng (already), shíjiān (time), zhīdào (know), xiǎng (want, think).
-- Once those are easy, add work words: kāihuì (have a meeting), kèhù (client), shùjù (data).
-- "harder" or "easier" from the user moves the level.
-- Tone marks always (ā á ǎ à), never tone numbers. Write a word's syllables together (gōngzuò, not gōng zuò).
+Use words from the user's Mandarin class (New Practical Chinese Reader, Book 1, Lessons 1–6). Recent lessons are the ones to practise most.
+
+- Lesson 1–2: hǎo (good), hěn (very), yě (also), bù (not), dōu (both, all), máng (busy), nǐmen (you all), wǒmen (we), tāmen (they), péngyou (friend), xièxie (thank you).
+- Lesson 3: yào (want), hē (drink), kāfēi (coffee), chá (tea), shénme (what), shì (to be), shéi (who), zhè (this), nà (that), lǎoshī (teacher), zuìjìn (lately), jīntiān (today).
+- Lesson 4: rènshi (know someone), gāoxìng (happy), kěyǐ (can), qǐng (please), jiào (be called), xuésheng (student), xuéxí (study), tóngxué (classmate), yǔyán (language), Hànyǔ (Chinese).
+- Lesson 5: zài (be at), nǎr (where), zhèr (here), nàr (there), zhīdào (know), duìbuqǐ (sorry), méi guānxi (never mind), búyòng xiè (you're welcome), zàijiàn (goodbye), wǎn le (late), bù hǎoyìsi (excuse me, sorry).
+- Lesson 6: qù (go to), zěnmeyàng (how is it), shénme shíhou (when), shàngkè / xiàkè (start / finish class), shàngbān / xiàbān (start / finish work), zuótiān (yesterday), míngtiān (tomorrow), tài … le (so …!), hǎo de (OK).
+- "harder" or "easier" from the user moves between recent and early lessons.
+- Tone marks always (ā á ǎ à), never tone numbers. Write a word's syllables together (xuéxí, not xué xí).
 - Only use a word you are sure of, tones included. If unsure, pick another word.
 
 ## Never
