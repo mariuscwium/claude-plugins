@@ -21,11 +21,11 @@ npx skills add mariuscwium/claude-plugins
 
 ### pinyin
 
-Mandarin practice. While it's on, Claude swaps a few common words in each reply for their pinyin, with no English gloss, so you read them in context:
+Mandarin practice. While it's on, Claude works common conversational phrases, in pinyin, into each reply, with no English gloss, so you read them in context:
 
-> The biggest wèntí is the release date.
+> Hǎo de. The build passed and the deploy is queued; I'll confirm once it's live. Míngtiān jiàn.
 
 - Say "pinyin mode" to turn it on, or run `/pinyin:pinyin` (`/pinyin` if you installed with the skills CLI). Say "stop pinyin" to turn it off.
-- It starts with everyday basics. Say "harder" or "easier" to change the level.
-- Ask what a word means and Claude tells you.
+- Level 1 is about 10% of each reply, using phrases from New Practical Chinese Reader Book 1, Lessons 1–6. Say "harder" or "easier" to move between levels (about 10%, 20% and 30%).
+- Ask what a phrase means and Claude tells you.
 - It never puts pinyin in code, commands, commits, files, names, numbers or warnings.
