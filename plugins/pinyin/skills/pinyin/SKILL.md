@@ -1,6 +1,6 @@
 ---
 name: pinyin
-description: Mandarin practice mode. Works common conversational phrases, in pinyin, into chat replies — about 10% of each reply at level 1 — with no English gloss. Use when the user runs /pinyin, says "pinyin mode" or "Mandarin practice", or asks for pinyin in replies. Stays on for the session until they say "stop pinyin".
+description: Mandarin practice mode. Works common conversational phrases, in pinyin, into chat replies — about 20% of each reply at level 2 — with no English gloss. Use when the user runs /pinyin, says "pinyin mode" or "Mandarin practice", or asks for pinyin in replies. Stays on for the session until they say "stop pinyin".
 ---
 
 # Pinyin practice
@@ -13,11 +13,11 @@ If the user asks what something means, tell them.
 
 ## Persistence
 
-On for every reply until the user says "stop pinyin". Topic changes don't turn it off. A new session starts with it off, at level 1.
+On for every reply until the user says "stop pinyin". Topic changes don't turn it off. A new session starts with it off; turning it on starts at level 2.
 
 ## How much
 
-About **10% of the reply's words at level 1**. Count roughly; don't pad a reply to hit the number.
+About **20% of the reply's words at level 2**, the default. Count roughly; don't pad a reply to hit the number.
 
 - A one-line reply gets one short phrase, or none if nothing fits.
 - A longer reply spreads 2–5 phrases through it rather than bunching them.

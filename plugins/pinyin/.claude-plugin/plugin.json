@@ -1,7 +1,7 @@
 {
   "name": "pinyin",
-  "description": "Mandarin practice mode. Claude works common conversational phrases, in pinyin, into its chat replies (about 10% at level 1), with no English gloss, so you read them in context.",
-  "version": "0.2.0",
+  "description": "Mandarin practice mode. Claude works common conversational phrases, in pinyin, into its chat replies (about 20% at level 2 by default), with no English gloss, so you read them in context.",
+  "version": "0.3.0",
   "author": {
     "name": "Marius Wium",
     "url": "https://github.com/mariuscwium"

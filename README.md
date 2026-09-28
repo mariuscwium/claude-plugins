@@ -26,6 +26,6 @@ Mandarin practice. While it's on, Claude works common conversational phrases, in
 > Hǎo de. The build passed and the deploy is queued; I'll confirm once it's live. Míngtiān jiàn.
 
 - Say "pinyin mode" to turn it on, or run `/pinyin:pinyin` (`/pinyin` if you installed with the skills CLI). Say "stop pinyin" to turn it off.
-- Level 1 is about 10% of each reply, using phrases from New Practical Chinese Reader Book 1, Lessons 1–6. Say "harder" or "easier" to move between levels (about 10%, 20% and 30%).
+- It starts at level 2, about 20% of each reply: phrases from New Practical Chinese Reader Book 1, Lessons 1–6, plus everyday extras. Say "harder" or "easier" to move between levels (about 10%, 20% and 30%).
 - Ask what a phrase means and Claude tells you.
 - It never puts pinyin in code, commands, commits, files, names, numbers or warnings.

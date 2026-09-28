@@ -13,7 +13,7 @@
       "name": "pinyin",
       "source": "./plugins/pinyin",
       "description": "Mandarin practice: Claude works common conversational phrases, in pinyin, into its replies, with no English gloss.",
-      "version": "0.2.0",
+      "version": "0.3.0",
       "category": "learning"
     }
   ]
